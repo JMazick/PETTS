@@ -1,0 +1,31 @@
+button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button1 {background-color: #cf76be;}
+.button2 {background-color: #626b63;}
+.button3 {background-color: #8983b5;}
+.button4 {background-color: #33185d;}
+.button5 {background-color: #010101;}
+
+h1 {
+    color: black;
+    font-family: verdana;
+    font-size: 200%;
+  }
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    border: none; 
+  }
+  

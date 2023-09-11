@@ -102,7 +102,7 @@ class PettsLEDs {
            let brightness = $('#brightness').val();
            pettsLEDs.writeColorForRange(color, min, max, brightness);
        });
-       $('#startPhases').click(function(e){
+       $('#phase1').click(function(e){
         e. preventDefault();
         let 
        })
